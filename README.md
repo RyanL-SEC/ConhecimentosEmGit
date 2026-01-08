@@ -1,2 +1,1 @@
-# tamandua
-Conhecimento em GIT
+# Conhecimento em GIT
