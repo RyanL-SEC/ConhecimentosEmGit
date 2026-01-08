@@ -1,1 +1,1 @@
-# Conhecimento em GIT
+# Conhecimentos em GIT
